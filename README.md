@@ -15,5 +15,5 @@ To clone the app, follow these steps:
 1. Install Git on your computer
 2. Open a terminal window
 3. Navigate to the directory where you want to clone the app
-4. Run the following command: `git clone https://github.com/user/repo.git` (replace "user" and "repo" with the correct values)
+4. Run the following command: `git clone https://github.com/tr3xxx/TaskTarea.git`
 5. Open the app in Android Studio

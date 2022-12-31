@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "com.codegama.TaskTarea.app-merged_res-20:/layout_item_task.xml.flat",
+        "source": "com.codegama.TaskTarea.app-main-22:/layout/item_task.xml"
+    },
+    {
+        "merged": "com.codegama.TaskTarea.app-merged_res-20:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.codegama.TaskTarea.app-main-22:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.codegama.TaskTarea.app-merged_res-20:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.codegama.TaskTarea.app-main-22:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.codegama.TaskTarea.app-merged_res-20:/menu_menu.xml.flat",
+        "source": "com.codegama.TaskTarea.app-main-22:/menu/menu.xml"
+    },
+    {
+        "merged": "com.codegama.TaskTarea.app-merged_res-20:/layout_fragment_calendar_view.xml.flat",
+        "source": "com.codegama.TaskTarea.app-main-22:/layout/fragment_calendar_view.xml"
+    },
+    {
+        "merged": "com.codegama.TaskTarea.app-merged_res-20:/layout_activity_alarm.xml.flat",
+        "source": "com.codegama.TaskTarea.app-main-22:/layout/activity_alarm.xml"
+    },
+    {
+        "merged": "com.codegama.TaskTarea.app-merged_res-20:/drawable_calendar.png.flat",
+        "source": "com.codegama.TaskTarea.app-main-22:/drawable/calendar.png"
+    },
+    {
+        "merged": "com.codegama.TaskTarea.app-merged_res-20:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.codegama.TaskTarea.app-main-22:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.codegama.TaskTarea.app-merged_res-20:/drawable_correct.png.flat",
+        "source": "com.codegama.TaskTarea.app-main-22:/drawable/correct.png"
+    },
+    {
+        "merged": "com.codegama.TaskTarea.app-merged_res-20:/drawable_completed.gif.flat",
+        "source": "com.codegama.TaskTarea.app-main-22:/drawable/completed.gif"
+    },
+    {
+        "merged": "com.codegama.TaskTarea.app-merged_res-20:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.codegama.TaskTarea.app-main-22:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.codegama.TaskTarea.app-merged_res-20:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.codegama.TaskTarea.app-main-22:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.codegama.TaskTarea.app-merged_res-20:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.codegama.TaskTarea.app-main-22:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.codegama.TaskTarea.app-merged_res-20:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.codegama.TaskTarea.app-main-22:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.codegama.TaskTarea.app-merged_res-20:/drawable_btn_background.xml.flat",
+        "source": "com.codegama.TaskTarea.app-main-22:/drawable/btn_background.xml"
+    },
+    {
+        "merged": "com.codegama.TaskTarea.app-merged_res-20:/drawable_ic_launcher.png.flat",
+        "source": "com.codegama.TaskTarea.app-main-22:/drawable/ic_launcher.png"
+    },
+    {
+        "merged": "com.codegama.TaskTarea.app-merged_res-20:/drawable_first_note.gif.flat",
+        "source": "com.codegama.TaskTarea.app-main-22:/drawable/first_note.gif"
+    },
+    {
+        "merged": "com.codegama.TaskTarea.app-merged_res-20:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.codegama.TaskTarea.app-main-22:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.codegama.TaskTarea.app-merged_res-20:/drawable_dot.png.flat",
+        "source": "com.codegama.TaskTarea.app-main-22:/drawable/dot.png"
+    },
+    {
+        "merged": "com.codegama.TaskTarea.app-merged_res-20:/drawable_ca.png.flat",
+        "source": "com.codegama.TaskTarea.app-main-22:/drawable/ca.png"
+    },
+    {
+        "merged": "com.codegama.TaskTarea.app-merged_res-20:/raw_notification.mp3.flat",
+        "source": "com.codegama.TaskTarea.app-main-22:/raw/notification.mp3"
+    },
+    {
+        "merged": "com.codegama.TaskTarea.app-merged_res-20:/drawable_more.png.flat",
+        "source": "com.codegama.TaskTarea.app-main-22:/drawable/more.png"
+    },
+    {
+        "merged": "com.codegama.TaskTarea.app-merged_res-20:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.codegama.TaskTarea.app-main-22:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.codegama.TaskTarea.app-merged_res-20:/drawable_no_task.gif.flat",
+        "source": "com.codegama.TaskTarea.app-main-22:/drawable/no_task.gif"
+    },
+    {
+        "merged": "com.codegama.TaskTarea.app-merged_res-20:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.codegama.TaskTarea.app-main-22:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.codegama.TaskTarea.app-merged_res-20:/drawable_alert.gif.flat",
+        "source": "com.codegama.TaskTarea.app-main-22:/drawable/alert.gif"
+    },
+    {
+        "merged": "com.codegama.TaskTarea.app-merged_res-20:/drawable_ic_arrow_back_black_24dp.xml.flat",
+        "source": "com.codegama.TaskTarea.app-main-22:/drawable/ic_arrow_back_black_24dp.xml"
+    },
+    {
+        "merged": "com.codegama.TaskTarea.app-merged_res-20:/layout_fragment_create_task.xml.flat",
+        "source": "com.codegama.TaskTarea.app-main-22:/layout/fragment_create_task.xml"
+    },
+    {
+        "merged": "com.codegama.TaskTarea.app-merged_res-20:/layout_activity_main.xml.flat",
+        "source": "com.codegama.TaskTarea.app-main-22:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.codegama.TaskTarea.app-merged_res-20:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.codegama.TaskTarea.app-main-22:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.codegama.TaskTarea.app-merged_res-20:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.codegama.TaskTarea.app-main-22:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.codegama.TaskTarea.app-merged_res-20:/layout_dialog_completed_theme.xml.flat",
+        "source": "com.codegama.TaskTarea.app-main-22:/layout/dialog_completed_theme.xml"
+    },
+    {
+        "merged": "com.codegama.TaskTarea.app-merged_res-20:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.codegama.TaskTarea.app-main-22:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.codegama.TaskTarea.app-merged_res-20:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.codegama.TaskTarea.app-main-22:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.codegama.TaskTarea.app-merged_res-20:/drawable_btn_border.xml.flat",
+        "source": "com.codegama.TaskTarea.app-main-22:/drawable/btn_border.xml"
+    },
+    {
+        "merged": "com.codegama.TaskTarea.app-merged_res-20:/drawable_ic_add_black_24dp.xml.flat",
+        "source": "com.codegama.TaskTarea.app-main-22:/drawable/ic_add_black_24dp.xml"
+    }
+]

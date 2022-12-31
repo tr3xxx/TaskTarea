@@ -1,0 +1,37 @@
+com/codegama/TaskTarea/activity/MainActivity.java
+ com.codegama.TaskTarea.activity.MainActivity
+ com.codegama.TaskTarea.activity.MainActivity$1GetSavedTasks
+com/codegama/TaskTarea/AppController.java
+ com.codegama.TaskTarea.AppController
+com/codegama/TaskTarea/BuildConfig.java
+ com.codegama.TaskTarea.BuildConfig
+com/codegama/TaskTarea/database/AppDatabase.java
+ com.codegama.TaskTarea.database.AppDatabase
+com/codegama/TaskTarea/adapter/TaskAdapter.java
+ com.codegama.TaskTarea.adapter.TaskAdapter
+ com.codegama.TaskTarea.adapter.TaskAdapter$1GetSavedTasks
+ com.codegama.TaskTarea.adapter.TaskAdapter$TaskViewHolder
+com/codegama/TaskTarea/bottomSheetFragment/ShowCalendarViewBottomSheet.java
+ com.codegama.TaskTarea.bottomSheetFragment.ShowCalendarViewBottomSheet
+ com.codegama.TaskTarea.bottomSheetFragment.ShowCalendarViewBottomSheet$1
+ com.codegama.TaskTarea.bottomSheetFragment.ShowCalendarViewBottomSheet$1GetSavedTasks
+com/codegama/TaskTarea/database/OnDataBaseAction.java
+ com.codegama.TaskTarea.database.OnDataBaseAction
+com/codegama/TaskTarea/broadcastReceiver/AlarmBroadcastReceiver.java
+ com.codegama.TaskTarea.broadcastReceiver.AlarmBroadcastReceiver
+com/codegama/TaskTarea/activity/AlarmActivity.java
+ com.codegama.TaskTarea.activity.AlarmActivity
+com/codegama/TaskTarea/activity/BaseActivity.java
+ com.codegama.TaskTarea.activity.BaseActivity
+com/codegama/TaskTarea/database/DatabaseClient.java
+ com.codegama.TaskTarea.database.DatabaseClient
+com/codegama/TaskTarea/broadcastReceiver/AlarmService.java
+ com.codegama.TaskTarea.broadcastReceiver.AlarmService
+com/codegama/TaskTarea/model/Task.java
+ com.codegama.TaskTarea.model.Task
+com/codegama/TaskTarea/bottomSheetFragment/CreateTaskBottomSheetFragment.java
+ com.codegama.TaskTarea.bottomSheetFragment.CreateTaskBottomSheetFragment
+ com.codegama.TaskTarea.bottomSheetFragment.CreateTaskBottomSheetFragment$1
+ com.codegama.TaskTarea.bottomSheetFragment.CreateTaskBottomSheetFragment$1saveTaskInBackend
+ com.codegama.TaskTarea.bottomSheetFragment.CreateTaskBottomSheetFragment$1showTaskFromId
+ com.codegama.TaskTarea.bottomSheetFragment.CreateTaskBottomSheetFragment$setRefreshListener

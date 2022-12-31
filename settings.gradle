@@ -1,0 +1,2 @@
+rootProject.name='TaskTarea'
+include ':app'
